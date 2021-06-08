@@ -1,0 +1,54 @@
+C:\Users\h09tlf\OneDrive - ICA\GIT\toll-calculator\C#\Tomas\TollCalculator\TollCalculator\obj\Debug\View\MainWindow.g.cs
+C:\Users\h09tlf\OneDrive - ICA\GIT\toll-calculator\C#\Tomas\TollCalculator\TollCalculator\obj\Debug\App.g.cs
+C:\Users\h09tlf\OneDrive - ICA\GIT\toll-calculator\C#\Tomas\TollCalculator\TollCalculator\obj\Debug\TollCalculator_MarkupCompile.cache
+C:\Users\h09tlf\OneDrive - ICA\GIT\toll-calculator\C#\Tomas\TollCalculator\TollCalculator\obj\Debug\TollCalculator_MarkupCompile.lref
+C:\Users\h09tlf\OneDrive - ICA\GIT\toll-calculator\C#\Tomas\TollCalculator\TollCalculator\bin\Debug\TollCalculator.exe.config
+C:\Users\h09tlf\OneDrive - ICA\GIT\toll-calculator\C#\Tomas\TollCalculator\TollCalculator\bin\Debug\TollCalculator.exe
+C:\Users\h09tlf\OneDrive - ICA\GIT\toll-calculator\C#\Tomas\TollCalculator\TollCalculator\bin\Debug\TollCalculator.pdb
+C:\Users\h09tlf\OneDrive - ICA\GIT\toll-calculator\C#\Tomas\TollCalculator\TollCalculator\obj\Debug\View\MainWindow.baml
+C:\Users\h09tlf\OneDrive - ICA\GIT\toll-calculator\C#\Tomas\TollCalculator\TollCalculator\obj\Debug\TollCalculator.g.resources
+C:\Users\h09tlf\OneDrive - ICA\GIT\toll-calculator\C#\Tomas\TollCalculator\TollCalculator\obj\Debug\TollCalculator.Properties.Resources.resources
+C:\Users\h09tlf\OneDrive - ICA\GIT\toll-calculator\C#\Tomas\TollCalculator\TollCalculator\obj\Debug\TollCalculator.csproj.GenerateResource.cache
+C:\Users\h09tlf\OneDrive - ICA\GIT\toll-calculator\C#\Tomas\TollCalculator\TollCalculator\obj\Debug\TollCalculator.csproj.CoreCompileInputs.cache
+C:\Users\h09tlf\OneDrive - ICA\GIT\toll-calculator\C#\Tomas\TollCalculator\TollCalculator\obj\Debug\TollCalculator.exe
+C:\Users\h09tlf\OneDrive - ICA\GIT\toll-calculator\C#\Tomas\TollCalculator\TollCalculator\obj\Debug\TollCalculator.pdb
+C:\Users\h09tlf\OneDrive - ICA\GIT\toll-calculator\C#\Tomas\TollCalculator\TollCalculator\bin\Debug\Nager.Date.dll
+C:\Users\h09tlf\OneDrive - ICA\GIT\toll-calculator\C#\Tomas\TollCalculator\TollCalculator\bin\Debug\Nager.Date.xml
+C:\Users\h09tlf\OneDrive - ICA\GIT\toll-calculator\C#\Tomas\TollCalculator\TollCalculator\obj\Debug\TollCalculator.csproj.CopyComplete
+C:\Users\h09tlf\OneDrive - ICA\GIT\toll-calculator\C#\Tomas\TollCalculator\TollCalculator\obj\Debug\TollCalculator.csprojAssemblyReference.cache
+C:\Users\h09tlf\OneDrive - ICA\GIT\toll-calculator - Copy\C#\Tomas\TollCalculator\TollCalculator\bin\Debug\TollCalculator.exe.config
+C:\Users\h09tlf\OneDrive - ICA\GIT\toll-calculator - Copy\C#\Tomas\TollCalculator\TollCalculator\bin\Debug\TollCalculator.exe
+C:\Users\h09tlf\OneDrive - ICA\GIT\toll-calculator - Copy\C#\Tomas\TollCalculator\TollCalculator\bin\Debug\TollCalculator.pdb
+C:\Users\h09tlf\OneDrive - ICA\GIT\toll-calculator - Copy\C#\Tomas\TollCalculator\TollCalculator\bin\Debug\Nager.Date.dll
+C:\Users\h09tlf\OneDrive - ICA\GIT\toll-calculator - Copy\C#\Tomas\TollCalculator\TollCalculator\bin\Debug\Nager.Date.xml
+C:\Users\h09tlf\OneDrive - ICA\GIT\toll-calculator - Copy\C#\Tomas\TollCalculator\TollCalculator\obj\Debug\TollCalculator.csprojAssemblyReference.cache
+C:\Users\h09tlf\OneDrive - ICA\GIT\toll-calculator - Copy\C#\Tomas\TollCalculator\TollCalculator\obj\Debug\View\MainWindow.g.cs
+C:\Users\h09tlf\OneDrive - ICA\GIT\toll-calculator - Copy\C#\Tomas\TollCalculator\TollCalculator\obj\Debug\App.g.cs
+C:\Users\h09tlf\OneDrive - ICA\GIT\toll-calculator - Copy\C#\Tomas\TollCalculator\TollCalculator\obj\Debug\TollCalculator_MarkupCompile.cache
+C:\Users\h09tlf\OneDrive - ICA\GIT\toll-calculator - Copy\C#\Tomas\TollCalculator\TollCalculator\obj\Debug\TollCalculator_MarkupCompile.lref
+C:\Users\h09tlf\OneDrive - ICA\GIT\toll-calculator - Copy\C#\Tomas\TollCalculator\TollCalculator\obj\Debug\View\MainWindow.baml
+C:\Users\h09tlf\OneDrive - ICA\GIT\toll-calculator - Copy\C#\Tomas\TollCalculator\TollCalculator\obj\Debug\TollCalculator.g.resources
+C:\Users\h09tlf\OneDrive - ICA\GIT\toll-calculator - Copy\C#\Tomas\TollCalculator\TollCalculator\obj\Debug\TollCalculator.Properties.Resources.resources
+C:\Users\h09tlf\OneDrive - ICA\GIT\toll-calculator - Copy\C#\Tomas\TollCalculator\TollCalculator\obj\Debug\TollCalculator.csproj.GenerateResource.cache
+C:\Users\h09tlf\OneDrive - ICA\GIT\toll-calculator - Copy\C#\Tomas\TollCalculator\TollCalculator\obj\Debug\TollCalculator.csproj.CoreCompileInputs.cache
+C:\Users\h09tlf\OneDrive - ICA\GIT\toll-calculator - Copy\C#\Tomas\TollCalculator\TollCalculator\obj\Debug\TollCalculator.csproj.CopyComplete
+C:\Users\h09tlf\OneDrive - ICA\GIT\toll-calculator - Copy\C#\Tomas\TollCalculator\TollCalculator\obj\Debug\TollCalculator.exe
+C:\Users\h09tlf\OneDrive - ICA\GIT\toll-calculator - Copy\C#\Tomas\TollCalculator\TollCalculator\obj\Debug\TollCalculator.pdb
+C:\Users\h09tlf\OneDrive - ICA\GIT\TollCalculator\TollCalculator\bin\Debug\TollCalculator.exe.config
+C:\Users\h09tlf\OneDrive - ICA\GIT\TollCalculator\TollCalculator\bin\Debug\TollCalculator.exe
+C:\Users\h09tlf\OneDrive - ICA\GIT\TollCalculator\TollCalculator\bin\Debug\TollCalculator.pdb
+C:\Users\h09tlf\OneDrive - ICA\GIT\TollCalculator\TollCalculator\bin\Debug\Nager.Date.dll
+C:\Users\h09tlf\OneDrive - ICA\GIT\TollCalculator\TollCalculator\bin\Debug\Nager.Date.xml
+C:\Users\h09tlf\OneDrive - ICA\GIT\TollCalculator\TollCalculator\obj\Debug\TollCalculator.csprojAssemblyReference.cache
+C:\Users\h09tlf\OneDrive - ICA\GIT\TollCalculator\TollCalculator\obj\Debug\View\MainWindow.g.cs
+C:\Users\h09tlf\OneDrive - ICA\GIT\TollCalculator\TollCalculator\obj\Debug\App.g.cs
+C:\Users\h09tlf\OneDrive - ICA\GIT\TollCalculator\TollCalculator\obj\Debug\TollCalculator_MarkupCompile.cache
+C:\Users\h09tlf\OneDrive - ICA\GIT\TollCalculator\TollCalculator\obj\Debug\TollCalculator_MarkupCompile.lref
+C:\Users\h09tlf\OneDrive - ICA\GIT\TollCalculator\TollCalculator\obj\Debug\View\MainWindow.baml
+C:\Users\h09tlf\OneDrive - ICA\GIT\TollCalculator\TollCalculator\obj\Debug\TollCalculator.g.resources
+C:\Users\h09tlf\OneDrive - ICA\GIT\TollCalculator\TollCalculator\obj\Debug\TollCalculator.Properties.Resources.resources
+C:\Users\h09tlf\OneDrive - ICA\GIT\TollCalculator\TollCalculator\obj\Debug\TollCalculator.csproj.GenerateResource.cache
+C:\Users\h09tlf\OneDrive - ICA\GIT\TollCalculator\TollCalculator\obj\Debug\TollCalculator.csproj.CoreCompileInputs.cache
+C:\Users\h09tlf\OneDrive - ICA\GIT\TollCalculator\TollCalculator\obj\Debug\TollCalculator.csproj.CopyComplete
+C:\Users\h09tlf\OneDrive - ICA\GIT\TollCalculator\TollCalculator\obj\Debug\TollCalculator.exe
+C:\Users\h09tlf\OneDrive - ICA\GIT\TollCalculator\TollCalculator\obj\Debug\TollCalculator.pdb

@@ -1,0 +1,40 @@
+﻿<Window x:Class="TollCalculator.View.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TollCalculator"
+        mc:Ignorable="d"
+        Title="Toll Calculator" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="auto"/>
+            <ColumnDefinition Width="10"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <StackPanel>
+            <StackPanel>
+                <Label Content="Select Vehicle Type"/>
+                <ComboBox ItemsSource="{Binding lstVehicleType}" SelectedIndex="{Binding SelectedVhicleIndex, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" SelectedItem="{Binding SelectedVhicleType, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"/>
+            </StackPanel>
+            <StackPanel HorizontalAlignment="Left">
+                <Label Content="Add License Plate"/>
+                <TextBox MinWidth="200" Text="{Binding LicensePlateNumber, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"/>
+                <Button HorizontalAlignment="Left" Width="100" Command="{Binding RegisterNewVehicleCommand}" Content="OK" />
+            </StackPanel>
+        </StackPanel>
+        <StackPanel Grid.Column="3">
+            <DataGrid CanUserAddRows="False" CanUserDeleteRows="False" IsReadOnly="True" AutoGenerateColumns="False" ItemsSource="{Binding lstIVehicle, UpdateSourceTrigger=PropertyChanged}">
+                <DataGrid.Columns>
+                    <DataGridTextColumn Binding="{Binding LicensePlate}" Header="License Plate" />
+                    <DataGridTextColumn Binding="{Binding TypString}" Header="Type Of Vehicle" />
+                    <DataGridTextColumn Binding="{Binding FeeDate, StringFormat=\{0:yyyy-MM-dd hh:mm\}}" Header="Fee Date Time" />
+                    <DataGridTextColumn Binding="{Binding Fee}" Header="Hour Fee" />
+                    <DataGridTextColumn Binding="{Binding FeeDate, StringFormat=\{0:yyyy-MM-dd\}}" Header="Fee Date" />
+                    <DataGridTextColumn Binding="{Binding TotalDayFee}" Header="Total Day Fee" />
+                </DataGrid.Columns>
+            </DataGrid>
+        </StackPanel>
+
+    </Grid>
+</Window>
